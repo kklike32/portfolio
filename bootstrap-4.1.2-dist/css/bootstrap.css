@@ -6011,6 +6011,7 @@ button.close {
   margin-right: 15%;
   margin-left: 15%;
   list-style: none;
+  color: #000000;
 }
 
 .carousel-indicators li {
@@ -6023,7 +6024,7 @@ button.close {
   margin-left: 3px;
   text-indent: -999px;
   cursor: pointer;
-  background-color: rgba(255, 255, 255, 0.5);
+  background-color: rgba(0, 0, 0, 0.5);
 }
 
 .carousel-indicators li::before {
@@ -6047,7 +6048,7 @@ button.close {
 }
 
 .carousel-indicators .active {
-  background-color: #fff;
+  background-color: #000000;
 }
 
 .carousel-caption {
