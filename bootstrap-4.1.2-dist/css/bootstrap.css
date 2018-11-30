@@ -10,8 +10,8 @@
   --purple: #6f42c1;
   --pink: #e83e8c;
   --red: #dc3545;
-  --orange: #fd7e14;
-  --yellow: #ffc107;
+  -- : #fd7e14;
+  -- : #ffc107;
   --green: #28a745;
   --teal: #20c997;
   --cyan: #17a2b8;
@@ -75,8 +75,11 @@ body {
 
 hr {
   box-sizing: content-box;
-  height: 0;
   overflow: visible;
+  border: none;
+  height: 0.5px;
+  color: #222;
+  background-color: #222; 
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -4404,7 +4407,7 @@ input[type="button"].btn-block {
   word-wrap: break-word;
   background-color: #f2ffff;
   background-clip: border-box;
-  border: 1px solid rgba(0, 0, 0, 0.125);
+  border: transparent /*1px solid rgba(0, 0, 0, 0.125)*/;
   border-radius: 0.25rem;
   margin: 10px 20px;
 }
@@ -4918,9 +4921,36 @@ input[type="button"].btn-block {
 .jumbotron {
   padding: 2rem 1rem;
   margin-bottom: 2rem;
-  background-color: #e8f1f9;
+  background-color: transparent;
   border-radius: 0.3rem;
 }
+
+.About_Me {
+  background-image:  radial-gradient(white, green); 
+}
+
+.index {
+  background-image:  radial-gradient(white, blue); 
+}
+
+.Resume {
+  background-image:  radial-gradient(white, #FFDF00); 
+}
+
+.Projects {
+  background-image:  radial-gradient(white, purple); 
+}
+
+.Contact_Me {
+  background-image:  radial-gradient(white, orange); 
+}
+
+.resume_hr {
+  width: 250px;
+  height: 2px;
+  background-color: red;
+}
+
 
 @media (min-width: 576px) {
   .jumbotron {
