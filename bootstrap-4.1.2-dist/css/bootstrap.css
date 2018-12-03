@@ -4926,24 +4926,25 @@ input[type="button"].btn-block {
 }
 
 .About_Me {
-  background-image:  radial-gradient(white, green); 
+  background-image:  radial-gradient(white, #a3db9b); 
 }
 
 .index {
-  background-image:  radial-gradient(white, blue); 
+  background-image:  radial-gradient(white, #89cff0); 
 }
 
 .Resume {
-  background-image:  radial-gradient(white, #FFDF00); 
+  background-image:  radial-gradient(white, #ccb935); 
 }
 
 .Projects {
-  background-image:  radial-gradient(white, purple); 
+  background-image:  radial-gradient(white, #db7fdb); 
 }
 
 .Contact_Me {
-  background-image:  radial-gradient(white, orange); 
+  background-image:  radial-gradient(white, #cc8a34); 
 }
+
 
 .resume_hr {
   width: 250px;
@@ -5958,6 +5959,10 @@ button.close {
   opacity: 0;
   transition-duration: .6s;
   transition-property: opacity;
+  -webkit-transition: 0.6s ease-in-out left;
+  -moz-transition: 0.6s ease-in-out left;
+  -o-transition: 0.6s ease-in-out left;
+  transition: 0.6s ease-in-out left;
 }
 
 .carousel-fade .carousel-item.active,
@@ -6032,6 +6037,15 @@ button.close {
   height: 25px;
   background: transparent no-repeat center center;
   background-size: 100% 100%;
+  position: absolute;
+}
+
+.carousel-control-next-icon { 
+  left: 190px;
+}
+
+.carousel-control-prev-icon { 
+  right: 165px;
 }
 
 .carousel-control-prev-icon {
