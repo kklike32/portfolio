@@ -1,0 +1,16 @@
+.bold {
+    font-size: 800;
+}
+
+#education {
+    position: relative;
+    height: 250px;
+}
+
+#skills_and_abilities {
+    float: left;
+}
+
+#volunteer_experience {
+    position: relative;
+}
