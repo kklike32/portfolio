@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+      
+        <title>Tanya Kalra's Engineering Portfolio</title>
+        
+        <link href="bootstrap-4.3.1-dist/css/bootstrap.css" type="text/css" rel="stylesheet"> 
+        
+        <link href="bootstrap-4.1.2-dist/css/bootstrap.css" type="text/css" rel="stylesheet"> 
+        
+        <link href="main.css" type="text/css" rel="stylesheet"> 
+        
+        <link href="https://fonts.googleapis.com/css?family=Crimson+Text:600" rel="stylesheet">
+        
+        <!-- GLOBAL SITE TAG (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130583086-1"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+        
+          gtag('config', 'UA-130583086-1');
+        </script>
+        
+        <!--NAVIGATION-->
+        <div class="container">
+        
+            <!--HEADING-->
+            <div class="jumbotron text-center index" style="text-align: center">
+                
+                <h1 class="">Online Portfolio</h1>
+                
+                <p> Hello viewers, I am Tanya Kalra.</p>
+                
+                <a href="">Continue Reading...</a>
+                
+            </div>
+            
+        </div>
+        
+    </head>
+    
+    <body>
+    
+        <!--MAIN CONTENT OF PAGE-->
+        <div class="container">
+            
+            <!--
+            WORK ON THESE CARDS LATER; (FIX UP POSITIONING)
+            <div class="row">
+                
+                MTT
+                <div class="card col-md-6 flex-md-row">
+                    
+                    <div class="card-body">
+                    
+                        <strong style="color: #253c60">Leadership</strong>
+                        
+                        <h2 style="color: #8b0000">MTT</h2>
+                        
+                        <h4 style="color: #ed3c28">2018-20..</h4>
+                        
+                        <p> I am currently the president of 
+                        <a href="https://mathtricksandtips.ml/">
+                        Math Tips and Tricks
+                        </a>
+                        club at Dublin High.</p>
+                        
+                        <a href="Kalra_AboutMe.html">Continue Reading...</a>
+                    
+                    </div>
+                    
+                    <img class="card-img-right" src="Images/MTT_logo.png" width="220px" height="220px" alt="MTT logo"/>
+                    
+                </div>
+                
+                CHESS
+                <div class="card col-md-5 flex-md-row">
+                    
+                    <div class="card-body">
+                
+                        <strong style="color: #253c60">Hobby</strong>
+                        
+                        <h2 style="color: #8b0000">Chess</h2>
+                        
+                        <h4 style="color: #ed3c28">2017-20..</h4>
+                        
+                        <p> I have been playing chess since 4th grade. 
+                        My 
+                        <a href="http://www.uschess.org/component/option,com_wrapper/Itemid,181/">
+                        current rating 
+                        </a>
+                        is 1039. </p>
+                        
+                        <a href="Kalra_Resume.html">Continue Reading...</a>
+                
+                    </div>
+                    
+                    <img class="card-img-right" src="Images/kkchess2.JPG" width="120px" height="225px" alt="I am holding a chess trophy"/>
+                    
+                </div>
+            
+            </div>
+            
+            <div class="row">
+            
+                SCRATCH
+                <div class="card col-md-5 flex-md-row">
+                    
+                    <div class="card-body">
+                
+                        <strong style="color: #253c60">Projects</strong>
+                        
+                        <h2 style="color: #8b0000">Scratch Project</h2>
+                        
+                        <h4 style="color: #ed3c28">2018 September</h4>
+                        
+                        <p> In 9th grade at DHS, my partner and I created a 
+                        <a href="https://scratch.mit.edu/projects/245011619/#player">
+                        hybrid mini-game and story
+                        </a> 
+                        in
+                        <a href="https://scratch.mit.edu/">
+                        Scratch 
+                        </a>.
+                        </p>
+                        
+                        <a href="Kalra_Projects.html">Continue Reading...</a>
+                    
+                    </div>
+                    
+                    <img class="card-img-right" src="Images/kkscratch.jpg" width="225px" height="225px" alt="Scratch Game Image"/>
+                    
+                </div>
+                
+                MIT APP INVENTOR
+                <div class="card col-md-6 flex-md-row">
+                    
+                    <div class="card-body">
+                
+                        <strong style="color: #253c60">Projects</strong>
+                        
+                        <h2 style="color: #8b0000">MIT App Inventor</h2>
+                        
+                        <h4 style="color: #ed3c28">2018 October</h4>
+                        
+                        <p> In 9th grade at DHS, my partner and I remixed 
+                        <a href="http://www.imagnity.com/android/oh-my-spikes-create-a-game-from-scratch-using-app-inventor/">
+                        "Oh My Spikes" 
+                        </a>
+                        in
+                        <a href="appinventor.mit.edud">
+                        MIT App Inventor
+                        </a>. 
+                        </p>
+                        
+                        <a href="Kalra_Projects.html">Continue Reading...</a>
+                    
+                    </div>
+                    
+                    <img class="card-img-right" src="Images/kkmitappinventor.jpg" width="250px" height="250px" alt="Oh My Spikes Picture"/>
+                    
+                </div>
+            
+            </div>
+            -->
+            
+            <div class="row">
+                
+                <h4 class="mx-auto">My passion of business started when I was 14. 
+                Now, I want to pursue a career in the Economics field.</h4>
+                
+            </div>
+            
+            <hr>
+            
+            <!--PROJECT (INCLUDES CARDS)-->
+            <div class="row">
+                
+                <h1 class="mx-auto" style="color: #560500">Projects</h3>
+                
+            </div>
+            
+            <div class="row">
+                
+                <!--SCRATCH-->
+                <div class="card col-md-5 flex-md-row mx-auto">
+                    
+                    <div class="card-body">
+                        
+                        <h2 style="color: #8b0000">Scratch Project</h2>
+                        
+                        <h4 style="color: #ed3c28">2018 September</h4>
+                        
+                        <p> 
+                        </p>
+                        
+                        <a href="">Continue Reading...</a>
+                    
+                    </div>
+                    
+                    <div class="card-img-right">
+                        
+                        <img src="" width="225px" height="225px" alt="Image"/>
+                        
+                    </div>
+                    
+                </div>
+                
+                <!--MIT APP INVENTOR-->
+                <div class="card col-md-5 flex-md-row mx-auto">
+                    
+                    <div class="card-body">
+                        
+                        <h2 style="color: #8b0000">MIT App Inventor</h2>
+                        
+                        <h4 style="color: #ed3c28">2018 October</h4>
+                        
+                        <p> 
+                        </p>
+                        
+                        <a href="">Continue Reading...</a>
+                    
+                    </div>
+                    
+                    <div class="card-img-right">
+                    
+                        <img src="" width="250px" height="250px" alt="Picture"/>
+                    
+                    </div>
+                    
+                </div>
+            
+            </div>
+            
+            <hr>
+            
+            <!--PROJECT (INCLUDES CARDS)-->
+            <div class="row">
+                
+                <h1 class="mx-auto" style="color: #560500">Volunteer</h3>
+                
+            </div>
+            
+            <div class="row">
+                
+                <!--FAIRCHANCE PROGRAM-->
+                <div class="card col-md-3 flex-md-row mx-auto">
+                    
+                    <div class="card-body">
+                        
+                        <h2 style="color: #8b0000">Fair Chance Program</h2>
+                        
+                        <h4 style="color: #ed3c28">2018 September - </h4>
+                        
+                        <p> Every Wednesday after school, I volunteer to help 
+                        out the special need kids at my school. 
+                        </p>
+                        
+                        <a href="">
+                        Continue Reading...</a>
+                    
+                    </div>
+                    
+                </div>
+                
+                <!--DUBLIN LIBRARY-->
+                <div class="card col-md-3 flex-md-row mx-auto">
+                    
+                    <div class="card-body">
+                        
+                        <h2 style="color: #8b0000">Dublin Library</h2>
+                        
+                        <h4 style="color: #ed3c28">2018 October - </h4>
+                        
+                        <p>
+                        </p>
+                        
+                        <a href="">
+                        Continue Reading...</a>
+                    
+                    </div>
+                    
+                </div>
+                
+                <!--FREMONT HINDU TEMPLE-->
+                <div class="card col-md-3 flex-md-row mx-auto">
+                    
+                    <div class="card-body">
+                        
+                        <h2 style="color: #8b0000">Fremont Hindu Temple</h2>
+                        
+                        <h4 style="color: #ed3c28">2013 - </h4>
+                        
+                        <p> 
+                        </p>
+                        
+                        <a href="">
+                        Continue Reading...</a>
+                    
+                    </div>
+                    
+                </div>
+            
+            </div>
+            
+            <hr>
+            
+        </div>
+        
+        
+        <!--FOOTER-->
+         <footer class="container">
+            
+            <div class="jumbotron">
+                
+                <center>
+                    
+                    <h5>
+                        
+                        <a href="">
+                        Tanya Kalra 
+                        </a>
+                        
+                        &nbsp &nbsp-&nbsp &nbsp Dehli, India 
+                        &nbsp &nbsp-&nbsp &nbsp Senior &nbsp &nbsp-&nbsp &nbsp
+                        
+                        <a href="">
+                        Contact Me 
+                        </a>
+                    
+                    </h5>
+                
+                </center>
+                
+                <center>
+                    
+                    <p>&copy; 2018 Keenan Kalra</p>
+                
+                </center>
+                
+                <!--GOOGLE TRANSLATE-->
+                <center>
+                   
+                    <div id="google_translate_element"></div>
+                
+                </center>
+                
+                <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit">
+                
+                </script>
+                
+                <script>
+                
+                function googleTranslateElementInit() {
+                new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+                }
+                
+                </script>
+                
+            </div>
+            
+        </footer>
+
+    </body>
+    
+</html>
